@@ -1,0 +1,19 @@
+*(^o^)* Classes and Objects
+
+* Clases are the blue print of the define object and its behaviors.
+
+* object is an instance of a class that represents a specific entity with its own behaviours.
+
+
+1.2 General Syntax for Classes
+
+public class ClassName{
+// block code
+}
+
+1.3 General Syntax for Creating an Object
+
+ClassName objectName= new ClassName();
+
+Example:
+        Animal dog = new Animal();
