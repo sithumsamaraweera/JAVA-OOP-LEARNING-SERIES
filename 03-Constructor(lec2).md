@@ -9,7 +9,7 @@ Example:
     Car(){
     brand= "Toyata";
     }
-```java
+```
 * Parameterized constructor
 
 coustructor that use one or more parameters.
