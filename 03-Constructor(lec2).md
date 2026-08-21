@@ -3,7 +3,8 @@ Constructor
 * Normal Constructor
 
 Normal Constructors are excute by using pre deterime values or  default values.
-Example:    
+Example:
+```java
     Car(){
     brand= "Toyata";
     }
