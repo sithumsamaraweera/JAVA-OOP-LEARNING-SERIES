@@ -1,7 +1,8 @@
 Constructor 
     are use to initialize an object.
 * Normal Constructor
- Normal Constructors are excute by using pre deterime values or  default values.
+
+Normal Constructors are excute by using pre deterime values or  default values.
 Example:    
     Car(){
     brand= "Toyata";
