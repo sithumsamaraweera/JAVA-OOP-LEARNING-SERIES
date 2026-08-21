@@ -1,5 +1,5 @@
 Constructor 
-    Constructors are use to initialize an object.
+    are use to initialize an object.
 * Normal Constructor
 Normal Constructors are excute by using pre deterime values or  default values.
 Example:    
