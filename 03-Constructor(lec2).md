@@ -25,9 +25,10 @@ Example 02: Constructors with more than one parameters
     }
 
 * Why we use key word "this" in Parameterized Constructors ?
-   Because key word " this "refers to the particular/current object and lets us access its values (fields)
 
-* FINAL EXAMPLE
+  Because key word " this "refers to the particular/current object and lets us access its values (fields)
+
+* EXAMPLE 03:
 ```java
     public class Car{ // creating class named car
         String brand;           // attiributes of the car class
