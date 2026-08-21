@@ -28,7 +28,7 @@ Example 02: Constructors with more than one parameters
    Because key word " this "refers to the particular/current object and lets us access its values (fields)
 
 * FINAL EXAMPLE
-* 
+```java
     public class Car{ // creating class named car
         String brand;           // attiributes of the car class
         Car(String brand){      // creating parameterized constructor "brand " is the parameter to this constructor 
