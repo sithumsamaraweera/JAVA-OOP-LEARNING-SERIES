@@ -1,12 +1,15 @@
 Constructor 
-    Constructors are use to initialize an object.
+    are use to initialize an object.
 * Normal Constructor
+
 Normal Constructors are excute by using pre deterime values or  default values.
-Example:    
+
+Example:
+```java
     Car(){
     brand= "Toyata";
     }
-
+```
 * Parameterized constructor
 
 coustructor that use one or more parameters.
@@ -25,9 +28,11 @@ Example 02: Constructors with more than one parameters
     }
 
 * Why we use key word "this" in Parameterized Constructors ?
-  this refers to the particular/current object and lets us access its values (fields)
 
-* FINAL EXAMPLE
+  Because key word " this "refers to the particular/current object and lets us access its values (fields)
+
+* EXAMPLE 03:
+```java
     public class Car{ // creating class named car
         String brand;           // attiributes of the car class
         Car(String brand){      // creating parameterized constructor "brand " is the parameter to this constructor 
